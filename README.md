@@ -155,7 +155,7 @@ Password: rootpassword
 Web образът е публикуван в Docker Hub:
 
 ```text
-https://hub.docker.com/repository/docker/1ubaka/heavens-kitchen-web/general
+https://hub.docker.com/r/1ubaka/heavens-kitchen-web
 ```
 
 ---
