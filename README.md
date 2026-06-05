@@ -8,9 +8,9 @@ Heaven's Kitchen е уеб приложение за поръчка на хра�
 
 ## Използвани технологии
 
-* PHP 8.2
+* PHP 
 * Apache Web Server
-* MySQL 8.0
+* MySQL 
 * phpMyAdmin
 * Docker
 * Docker Compose
@@ -41,8 +41,6 @@ heavens-kitchen-docker/
 │   └── db.sql
 │
 ├── compose.yml
-│
-└── README.md
 ```
 
 ---
@@ -91,7 +89,7 @@ $host = "db";
 
 ## Изграждане на контейнерите
 
-Отворете терминал в главната директория на проекта и изпълнете:
+Отворя се терминал в главната директория на проекта и се изпълнява:
 
 ```bash
 docker compose build
@@ -162,18 +160,4 @@ https://hub.docker.com/r/ВАШЕТО_DOCKERHUB_ИМЕ/heavens-kitchen-web
 
 ---
 
-## GitHub Repository
 
-Проектът е достъпен в GitHub:
-
-```text
-https://github.com/ВАШЕТО_GITHUB_ИМЕ/heavens-kitchen-docker
-```
-
----
-
-## Автор
-
-Име: Luboslav
-
-Проект по дисциплина: Контейнеризация на приложения с Docker Compose
